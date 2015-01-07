@@ -76,7 +76,7 @@ h2{
 .container2{
     background: #62788F;
     text-align: center;
-    height: 100vh;
+    height: 700px;
     
 }
 
@@ -239,6 +239,7 @@ li a:hover{
     border-radius: 8px;
     background-color: inherit;
     letter-spacing: 2px;
+    margin-bottom: 100px
 
 }   
 
